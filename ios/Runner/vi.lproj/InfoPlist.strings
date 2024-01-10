@@ -1,0 +1,4 @@
+NSCameraUsageDescription = "SnackSavers cần quyền truy cập vào máy ảnh của bạn để bạn có thể chụp ảnh những món ăn nhẹ tuyệt đẹp của mình.";
+NSPhotoLibraryUsageDescription = "Để tải lên hình ảnh về những món ăn vặt ngon mà bạn muốn bán, SnackSavers cần quyền truy cập vào thư viện ảnh trên thiết bị của bạn. Những hình ảnh này có thể được đính kèm vào danh sách của bạn. Các hình ảnh cũng có thể được sử dụng cho ảnh hồ sơ của tài khoản của bạn.";
+NSLocationWhenInUseUsageDescription = "SnackSavers cần vị trí của bạn để hiển thị đồ ăn nhẹ được lưu gần bạn.";
+PermissionGroupNotification = "Cho phép quyền nhận thông báo ngay khi đồ ăn nhẹ được cung cấp.";

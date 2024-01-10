@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "445595031900",
+    "project_id": "snacksavers-6300d",
+    "storage_bucket": "snacksavers-6300d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445595031900:android:42fa345b54267607a68999",
+        "android_client_info": {
+          "package_name": "Caffeineflow.SnackSavers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445595031900-c6jodvjj1sik9vio19len7rbuvvbg6ju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Caffeineflow.SnackSavers",
+            "certificate_hash": "f7f385402698a06672320b0f82e88f25117b8c35"
+          }
+        },
+        {
+          "client_id": "445595031900-k49j4tt198apc1hkg4ttvnnjk7vf90gr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Caffeineflow.SnackSavers",
+            "certificate_hash": "6a073b3fbaa8c11d810c771426ce8d181f79595b"
+          }
+        },
+        {
+          "client_id": "445595031900-ln4vi2bc6a1sviu75bfks7b46cegn82d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Caffeineflow.SnackSavers",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "445595031900-pp6lo1u3pgqss7g15s3gfngb4sdds507.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Caffeineflow.SnackSavers",
+            "certificate_hash": "0d02db952be9527eb226c993cc1d11ab54d404ee"
+          }
+        },
+        {
+          "client_id": "445595031900-s1eoun4ias86sior8if5085r6106qd5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Caffeineflow.SnackSavers",
+            "certificate_hash": "ecda0a2a66e0212993f22fb84dbde9c95b80ca1e"
+          }
+        },
+        {
+          "client_id": "445595031900-l5vov5ob76rtpag5vedl1oinj5hi6vs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB97fIi4C5MT-VNqhHmVGrQ_OQsazjXDEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445595031900-l5vov5ob76rtpag5vedl1oinj5hi6vs7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445595031900-fj548c7cd141s9qfcbhq7flu5lrftbrf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.caffeineflow.snacksavers"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445595031900:android:2d11dba0a24da313a68999",
+        "android_client_info": {
+          "package_name": "caffeineflow.snacksavers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445595031900-6erqqc4c0tt606tbuf53daahpnp308ea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "caffeineflow.snacksavers",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "445595031900-l5vov5ob76rtpag5vedl1oinj5hi6vs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB97fIi4C5MT-VNqhHmVGrQ_OQsazjXDEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445595031900-l5vov5ob76rtpag5vedl1oinj5hi6vs7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445595031900-fj548c7cd141s9qfcbhq7flu5lrftbrf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.caffeineflow.snacksavers"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445595031900:android:98f74408bb577a27a68999",
+        "android_client_info": {
+          "package_name": "com.caffeineflow.snacksavers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445595031900-k7fpbcigu29s1729pihk1a2fmop1j418.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.caffeineflow.snacksavers",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "445595031900-l5vov5ob76rtpag5vedl1oinj5hi6vs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB97fIi4C5MT-VNqhHmVGrQ_OQsazjXDEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445595031900-l5vov5ob76rtpag5vedl1oinj5hi6vs7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445595031900-fj548c7cd141s9qfcbhq7flu5lrftbrf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.caffeineflow.snacksavers"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

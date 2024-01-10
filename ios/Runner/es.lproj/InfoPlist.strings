@@ -1,0 +1,4 @@
+NSCameraUsageDescription = "SnackSavers necesita acceso a su cámara para que pueda tomar fotografías de sus hermosos bocadillos.";
+NSPhotoLibraryUsageDescription = "Para cargar imágenes de los deliciosos bocadillos que desea vender, SnackSavers necesita acceso a la biblioteca de fotos en su dispositivo. Estas imágenes se pueden adjuntar a sus listados. Las imágenes también se pueden utilizar para la imagen de perfil de su cuenta.";
+NSLocationWhenInUseUsageDescription = "SnackSavers necesita su ubicación para mostrar bocadillos que se guardarán cerca de usted.";
+PermissionGroupNotification = "Habilite los permisos para recibir información tan pronto como los refrigerios estén disponibles.";

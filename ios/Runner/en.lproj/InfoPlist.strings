@@ -1,0 +1,4 @@
+NSCameraUsageDescription = "SnackSavers needs access to your camera so you can take pictures of your beautiful snacks.";
+NSPhotoLibraryUsageDescription = "In order to upload images of the delicious snacks you want to sell, SnackSavers needs access to the photo library on your device. These images can be attached to your listings. The images can also be used for the profile picture of your account.";
+NSLocationWhenInUseUsageDescription = "SnackSavers needs your location to display snacks to be saved near you.";
+PermissionGroupNotification = "Enable permissions to get informed as soon as snacks are made available.";

@@ -1,0 +1,4 @@
+NSCameraUsageDescription = "SnackSavers 需要使用您的相机，以便您可以拍摄精美的零食照片。";
+NSPhotoLibraryUsageDescription = "为了上传您想出售的美味小吃的图片，SnackSavers 需要访问您设备上的照片库。这些图像可以附加到您的列表中。这些图像也可用于您帐户的个人资料图片。";
+NSLocationWhenInUseUsageDescription = "SnackSavers 需要您的位置来显示要保存在您附近的零食。";
+PermissionGroupNotification = "启用权限，以便在零食可用时立即获得通知。";
